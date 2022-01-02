@@ -3,7 +3,7 @@ package net.javaguides.springboot.model;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "Employees")
+@Table(name = "employees")
 public class Employee {
 
     @Id
